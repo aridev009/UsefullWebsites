@@ -20,7 +20,7 @@
 
 ## Whois Lookup
 [whois.domaintools.com](http://whois.domaintools.com/)
-
+[whois.net](http://whois.net/)
 ## SSL Checker
 [sslshopper.com](https://www.sslshopper.com/ssl-checker.html)
 
